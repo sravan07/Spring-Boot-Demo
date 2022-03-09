@@ -15,6 +15,7 @@ pipeline {
 				echo "hello"
 				echo "hi"
 				echo "bye"
+				echo "End"
 			}
 		}
 	}
